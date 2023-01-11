@@ -1,5 +1,5 @@
 # Hi, my name is Diego Alejandro Perdomo Montealegre  
-I am a last semester student of Software Engineering, I am focused on web development, especially frontend.  
+I am a Software Engineering, I am focused on web development, especially frontend.  
 ### I like
 - Play videogames
 - Design graphic
