@@ -2,7 +2,7 @@
 I am a Software Engineering, I am focused on web development, especially frontend.  
 ### I like
 - Play videogames
-- Design graphic
+- Graphic design
 - Hardware and Software
 
 
